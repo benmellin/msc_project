@@ -5,7 +5,8 @@ This project expanded on previous work completed by Dr. Raga Krishnakumar at San
 
 The purpose of this project was to determine some of the genetic features that determine if a Mesenchymal Stromal Cell is antimicrobial or not.
 
-My group was provided with mRNA data of ~9,000 MSCs, and experimentally determined labels of antimicrobial or non-antimicrobial. We sought to better understand what made some MSCs antimicrobial, and what made some non-antimicrobial.
+My group was provided with mRNA data of ~9,000 MSCs, and experimentally determined labels of antimicrobial or non-antimicrobial. We sought to use statistical and computational methods better understand what made some MSCs antimicrobial, and what made some non-antimicrobial.
+
 
 My contributions included:
 - [A Leiden Clustering based Classification Method](leiden_experiment/Ben_seurat_experiment_leiden.md)
