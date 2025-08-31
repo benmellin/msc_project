@@ -12,7 +12,7 @@ Benjamin Mellin
 - Essentially, each MSC has an experimentally determined label of
   antimicrobial/nonantimicrobial.
 
-- We are aiming to create a unsupervised clustering based classification
+- We are aiming to create a clustering based classification
   method for this data.
 
 - The method for this is the following:
@@ -21,8 +21,8 @@ Benjamin Mellin
 2.  Use Leiden clustering on 4/5 of the folds.
 3.  Label clusters that are dominated by antimicrobial or non
     antimicrobial MSC cells as antimicrobial or non antimicrobial.
-    Remove remaining clusters
-4.  Classify remaining cells based on Euclidean distance to each
+    Remove remaining clusters.
+4.  Classify remaining cells (from unclustered fold) based on Euclidean distance to each
     cluster.
 5.  Compare true label to cluster assigned label, get accuracy.
 6.  Repeat steps 2-5 on remaining folds.
@@ -31,8 +31,7 @@ Benjamin Mellin
   understanding of the cellular features (i.e. gene expression
   signatures) that may underlie antimicrobial/non antimicrobial
   behavior.
-- This particular dataset is heterogeneous and high noise, which is why
-  we hypothesize we are trying this method.
+- We hypothesize that this cluster based method may help reduce some of the noise of this dataset. This particular dataset is heterogeneous and high noise.
 - This methodology was suggested by Dr. Mansoor Haider.
 - Some of this code has been adapted from previous work by Dr. Raga
   Krishnakumar.
