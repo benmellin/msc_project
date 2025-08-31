@@ -51,14 +51,14 @@ gc()
     ## Ncells   4308235  230.1    7462436  398.6         NA    7462436  398.6
     ## Vcells 395824090 3019.9 1080061425 8240.3      16384 1282271375 9783.0
 
-\###Read in packages
+### Read in packages
 
 ``` r
 library(Seurat)
 library(tidyverse)
 ```
 
-\###Read in seurat object
+### Read in seurat object
 
 ``` r
 msc <- readRDS(file="/Users/benjaminmellin/Desktop/Grad_School/Year 1/fds_project/AllData_COMBAT_CCNorm.rds")
