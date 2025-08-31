@@ -17,3 +17,9 @@ My contributions included:
   - This particular dataset is heterogeneous and high noise, which is why
   we hypothesize may be effective.
   - This methodology was suggested by Dr. Mansoor Haider.
+- [Using Classic Supervised ML Methods on Dataset](Supervised_learning_exps.ipynb)
+  - The purpose of this experiment was to recreate some previous work on the dataset.
+  - I aimed to investigate the ability of classic ML models to accurately classify our data, using a limited selection of genes.
+  - I intially used only a subset of genes as features that were provided to us by Dr. Raga Krishnakumar.
+  - I also derived my own subset of genes to be used in the ML models for classification.
+
