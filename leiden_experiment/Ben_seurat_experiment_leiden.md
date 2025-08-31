@@ -12,7 +12,7 @@ Benjamin Mellin
 - Essentially, each MSC has an experimentally determined label of
   antimicrobial/nonantimicrobial.
 
-- We are aiming to create a unsupervised clustering based classification
+- We are aiming to create a clustering based classification
   method for this data.
 
 - The method for this is the following:
