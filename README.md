@@ -1,5 +1,5 @@
 # msc_project
-A semester long research project into the properties of Mesenchymal Stromal Cells (MSCs).
+A semester long research project that uses statistical and computational models to better understand a population of into Mesenchymal Stromal Cells (MSCs).
 
 This project expanded on previous work completed by Dr. Raga Krishnakumar at Sandia National Laboratories.
 
