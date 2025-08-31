@@ -9,7 +9,7 @@ My group was provided with mRNA data of ~9,000 MSCs, and experimentally determin
 
 My contributions included:
 - [A Leiden Clustering based Classification Method](leiden_experiment/Ben_seurat_experiment_leiden.md)
-  - The purpose of using this cluster based method was to try to develop an
+  - The purpose of using this cluster based classification method was to try to develop an
   understanding of the cellular features (i.e. gene expression
   signatures) that may underlie antimicrobial/non antimicrobial
   behavior.
