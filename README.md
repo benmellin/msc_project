@@ -8,7 +8,7 @@ The purpose of this project was to determine some of the genetic features that d
 My group was provided with mRNA data of ~9,000 MSCs, and experimentally determined labels of antimicrobial or non-antimicrobial. We sought to use statistical and computational methods better understand what made some MSCs antimicrobial, and what made some non-antimicrobial.
 
 
-My contributions included:
+I've included a few of my contirbutions to this project in this repo. Some images and code from these ultimately made it into our final report.
 - [A Leiden Clustering based Classification Method](leiden_experiment/Ben_seurat_experiment_leiden.md)
   - The purpose of using this cluster based classification method was to try to develop an
   understanding of the cellular features (i.e. gene expression
